@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello
+
+My name is Jan Stefański ([ˈjan stɛˈfaj᷉ski](https://en.wikipedia.org/wiki/Help:IPA_for_Polish)).
+
+I am a junior developer passionate about developing web apps and video games. 
 
 <!--
 **JanStefanski/janstefanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
