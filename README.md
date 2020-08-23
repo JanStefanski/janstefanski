@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 
 My name is Jan Stefański ([ˈjan stɛˈfaj᷉ski](https://en.wikipedia.org/wiki/Help:IPA_for_Polish)).
 
