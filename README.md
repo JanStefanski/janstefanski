@@ -10,4 +10,4 @@ This page is my GitHub profile. You're welcome to look around and make use of al
 
 Most of my works are either unfinished or private due to their nature. Once I feel confident in the code I wrote for them, I'll make it public.
 
-If you are interested in getting in touch with me, you can reach me at [jan@stefanski.tech](mailto:jan@stefanski.tech).
+If you are interested in getting in touch with me, you can reach me at jan @stefanski.tech
