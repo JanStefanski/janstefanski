@@ -1,13 +1,11 @@
 ## Welcome!
 
-My name is Jan Stefański ([ˈjan stɛˈfaj᷉ski](https://en.wikipedia.org/wiki/Help:IPA_for_Polish)).
+My name is Jan Stefański. Welcome to my github profile.
 
-I am a junior developer passionate about developing web apps and video games. I always learn new things about programming, development and IT in general.
+You're welcome to look around and make use of all of my public repositories with free licences.
 
-Currently, I'm especially focused on my studies, so I have less time for my personal code.
+While a significant portion of my craft is bound by NDAs, leaving only a glimpse of my work on display here, my passion for open-source makes me wanna contribute whenever the opportunity arises.
 
-This page is my GitHub profile. You're welcome to look around and make use of all of my public repositories.
+Interested in collaborating or just want to say hello? Reach me at [contact@janstefanski.com](mailto:contact@janstefanski.com "Mail me")
 
-Most of my works are either unfinished or private due to their nature. Once I feel confident in the code I wrote for them, I'll make it public.
-
-If you are interested in getting in touch with me, you can reach me at [contact@janstefanski.com](mailto:contact@janstefanski.com "Mail me")
+Cheers
