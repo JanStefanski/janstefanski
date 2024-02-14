@@ -8,4 +8,4 @@ While a significant portion of my craft is bound by NDAs, leaving only a glimpse
 
 Interested in collaborating or just want to say hello? Reach me at [contact@janstefanski.com](mailto:contact@janstefanski.com "Mail me")
 
-Cheers
+Cheers!
